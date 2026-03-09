@@ -15,3 +15,5 @@ I’m transitioning into **technical writing** and building a portfolio centered
 - Help Center-style guides (how-tos, FAQs, troubleshooting)
 - Documentation rewrites (before/after with rationale)
 - AI feature docs practice (limitations, examples, “what to expect”)
+
+Email: [benrod97@gmail.com](mailto:benrod97@gmail.com)
