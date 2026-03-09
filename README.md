@@ -6,12 +6,12 @@ I’m transitioning into **technical writing** and building a portfolio centered
 
 #### I’m currently focused on:
 
-* Help Center articles (how-tos, troubleshooting, FAQs)
-* Onboarding and setup guides for new users
-* Clear UX writing and content structure (headings, steps, examples)
+- Help Center articles (how-tos, troubleshooting, FAQs)
+- Onboarding and setup guides for new users
+- Clear UX writing and content structure (headings, steps, examples)
 
 #### What you’ll find here:
 
-* Writing samples and doc-style practice pieces
-* Before/after rewrites of product documentation
-* Notes on documenting AI features for everyday users (expectations, limitations, examples)
+- Help Center-style guides (how-tos, FAQs, troubleshooting)
+- Documentation rewrites (before/after with rationale)
+- AI feature docs practice (limitations, examples, “what to expect”)
