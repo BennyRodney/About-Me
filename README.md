@@ -1,4 +1,4 @@
-## Hi, I’m Benjamin Rodney 👋
+## Hi, I’m Benny Rodney 👋
 
 ### Aspiring Technical Writer | User-Focused | Clarity-Driven
 
