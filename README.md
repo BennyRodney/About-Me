@@ -6,7 +6,7 @@ I’m transitioning into **technical writing** and building a portfolio centered
 
 #### I’m currently focused on:
 
-- Help Center articles (how-tos, troubleshooting, FAQs)
+- User research and task analysis for Help Center content
 - Onboarding and setup guides for new users
 - Clear UX writing and content structure (headings, steps, examples)
 
